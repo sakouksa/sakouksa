@@ -1,33 +1,45 @@
-<div id="marquee">👋 Hi there! I'm Sak Ousa • Full-Stack Developer • Laravel • React • Flutter • </div>
+<div class="marquee">
+  <div id="marqueeText">
+    👋 Hi there! I'm Sak Ousa • Full-Stack Developer • Laravel • React • Flutter •
+  </div>
+</div>
 
 <style>
-#marquee {
-  white-space: nowrap;
-  overflow: hidden;
+.marquee {
   width: 100%;
+  overflow: hidden;
   background: #111;
   color: #fff;
   padding: 10px;
   font-size: 20px;
+  position: relative;
+  white-space: nowrap;
+}
+
+#marqueeText {
+  position: absolute;
+  white-space: nowrap;
 }
 </style>
 
 <script>
-let text = document.getElementById("marquee");
-let position = text.offsetWidth;
+const text = document.getElementById("marqueeText");
 
-function moveText() {
-  position--;
-  text.style.transform = `translateX(${position}px)`;
+let x = window.innerWidth;
 
-  if (position < -text.scrollWidth) {
-    position = text.offsetWidth;
+function animate() {
+  x -= 2; // speed
+
+  text.style.transform = `translateX(${x}px)`;
+
+  if (x < -text.scrollWidth) {
+    x = window.innerWidth;
   }
 
-  requestAnimationFrame(moveText);
+  requestAnimationFrame(animate);
 }
 
-moveText();
+animate();
 </script>
 ## 💫 About Me
 **Full-Stack Developer | IT Student at UHST**
