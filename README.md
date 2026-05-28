@@ -14,5 +14,3 @@ Here is the short version of your professional profile in English:<br><br>Sak Ou
 
 ---
 [![](https://komarev.com/ghpvc/?username=sakouksa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
