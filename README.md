@@ -63,11 +63,3 @@ I am an IT student at the **University of Heng Samrin Thbung Khmum (UHST)**. I a
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=sakouksa&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sakouksa&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakouksa&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=sakouksa&icon=0&color=0)](https://visitcount.itsvg.in)
