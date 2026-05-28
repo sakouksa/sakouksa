@@ -1,9 +1,24 @@
-# 💫 About Me:
-Here is the short version of your professional profile in English:<br><br>Sak Ousa | Full-Stack Developer<br><br>IT student at the University of Heng Samrin Thbung Khmum (UHST). I am a developer dedicated to building robust business and management solutions.<br><br>Core Stack: Laravel, React, TypeScript, Flutter, and SQL.<br><br>Focus Areas: Enterprise Management Systems (POS & Accounting), UI/UX Design (Ant Design, Tailwind), and Network Administration.<br><br>Philosophy: Writing clean, maintainable code to solve real-world operational challenges.<br><br>GitHub Highlights:<br>Specializing in retail point-of-sale (POS) systems, financial management software, and educational platforms (LMS).
+# Hi there! 👋 I'm Sak Ousa
 
+## 💫 About Me
+**Full-Stack Developer | IT Student at UHST**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1LCyotGFvP/?mibextid=wwXIfr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/@sakousaaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@SakOusa-vk4xt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hjhfg7226@gmail.com) 
+I am an IT student at the **University of Heng Samrin Thbung Khmum (UHST)**. I am a developer dedicated to building robust business and management solutions.
+
+*   **Core Stack:** Laravel, React, TypeScript, Flutter, and SQL.
+*   **Focus Areas:** Enterprise Management Systems (POS & Accounting), UI/UX Design (Ant Design, Tailwind), and Network Administration.
+*   **Philosophy:** Writing clean, maintainable code to solve real-world operational challenges.
+*   **GitHub Highlights:** Specializing in retail point-of-sale (POS) systems, financial management software, and educational platforms (LMS).
+
+---
+
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1LCyotGFvP/?mibextid=wwXIfr) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@sakousaaa) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SakOusa-vk4xt) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hjhfg7226@gmail.com)
+
+---
 
 ### 💻 Tech Stack
 
@@ -52,3 +67,13 @@ Here is the short version of your professional profile in English:<br><br>Sak Ou
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </details>
+
+---
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=sakouksa&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sakouksa&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakouksa&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=sakouksa&icon=0&color=0)](https://visitcount.itsvg.in)
