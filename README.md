@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sak Ousa
+<marquee behavior="alternate" scrollamount="5">Hi there! 👋 I'm Sak Ousa</marquee>
 
 ## 💫 About Me
 **Full-Stack Developer | IT Student at UHST**
