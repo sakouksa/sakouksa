@@ -1,13 +1,21 @@
-<div style="overflow: hidden; white-space: nowrap;">
-  <div style="display: inline-block; animation: marquee 10s linear infinite;">
-    <h1 style="margin: 0;">Hi there! 👋 I'm Sak Ousa</h1>
-  </div>
-</div>
+<h1 class="typing">Hi there! 👋 I'm Sak Ousa</h1>
 
 <style>
-@keyframes marquee {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
+.typing {
+  overflow: hidden;
+  border-right: .15em solid #333;
+  white-space: nowrap;
+  animation: typing 3s steps(30, end), blink .75s step-end infinite;
+  width: 0;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
 }
 </style>
 
