@@ -5,10 +5,10 @@
 
 I am an IT student at the **University of Heng Samrin Thbung Khmum (UHST)**. I am a developer dedicated to building robust business and management solutions.
 
-*   **Core Stack:** Laravel, React, TypeScript, Flutter, and SQL.
-*   **Focus Areas:** Enterprise Management Systems (POS & Accounting), UI/UX Design (Ant Design, Tailwind), and Network Administration.
-*   **Philosophy:** Writing clean, maintainable code to solve real-world operational challenges.
-*   **GitHub Highlights:** Specializing in retail point-of-sale (POS) systems, financial management software, and educational platforms (LMS).
+* **Core Stack:** Laravel, React, TypeScript, Flutter, and SQL.
+* **Focus Areas:** Enterprise Management Systems (POS & Accounting), UI/UX Design (Ant Design, Tailwind), and Network Administration.
+* **Philosophy:** Writing clean, maintainable code to solve real-world operational challenges.
+* **GitHub Highlights:** Specializing in retail point-of-sale (POS) systems, financial management software, and educational platforms (LMS).
 
 ---
 
@@ -21,10 +21,6 @@ I am an IT student at the **University of Heng Samrin Thbung Khmum (UHST)**. I a
 ---
 
 ### 💻 Tech Stack
-
-<details align="center">
-<summary><b>Click to expand my tech stack</b></summary>
-<br>
 
 #### 🌐 Web & Backend Development
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -65,8 +61,6 @@ I am an IT student at the **University of Heng Samrin Thbung Khmum (UHST)**. I a
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
 
 ---
 
