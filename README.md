@@ -1,17 +1,13 @@
-<h1 align="center">
-  <span style="display: inline-block; overflow: hidden; white-space: nowrap; border-right: .15em solid orange; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
-    Hi there! 👋 I'm Sak Ousa
-  </span>
-</h1>
+<div style="overflow: hidden; white-space: nowrap;">
+  <div style="display: inline-block; animation: marquee 10s linear infinite;">
+    <h1 style="margin: 0;">Hi there! 👋 I'm Sak Ousa</h1>
+  </div>
+</div>
 
 <style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
 }
 </style>
 
