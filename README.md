@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header & Animation Title -->
-  <h1>👋 សួស្តី! ខ្ញុំបាទ សាក់ អ៊ូសា (SAK OUSA)</h1>
+  <h1>👋 Hi there! I'm SAK OUSA</h1>
   <p><strong>Full-Stack Developer | IT Student at UHST</strong></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+Professional+Business+Solutions;Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+React;TypeScript+%E2%80%A2+Flutter+%E2%80%A2+SQL" alt="Typing SVG" />
@@ -13,16 +13,16 @@
     <a href="mailto:hjhfg7226@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  👤 <strong>អំពីខ្ញុំ (About Me)</strong>
+  👤 <strong>About Me</strong>
   <p style="max-width: 600px; text-align: center;">
-    ខ្ញុំជានិស្សិតផ្នែកព័ត៌មានវិទ្យា (IT) នៅ <strong>សាកលវិទ្យាល័យ ហេង សំរិន ត្បូងឃ្មុំ (UHST)</strong>។ ខ្ញុំជា Developer ដែលផ្តោតលើការអភិវឌ្ឍប្រព័ន្ធគ្រប់គ្រងអាជីវកម្ម និងសហគ្រាស (Enterprise Management Systems - POS & Accounting), UI/UX Design និងការគ្រប់គ្រងប្រព័ន្ធបណ្តាញ (Network Administration) ជាមួយទស្សនៈ <em>"សរសេរកូដឲ្យស្អាត ងាយស្រួលថែទាំ ដើម្បីដោះស្រាយបញ្ហាជាក់ស្តែង"</em>។
+    I am an IT student at the <strong>University of Heng Samrin Thbung Khmum (UHST)</strong>. I am a dedicated developer focused on building robust business and enterprise management solutions (POS & Accounting), UI/UX design, and network administration. My development philosophy centers on writing clean, maintainable code to effectively solve real-world operational challenges.
   </p>
 
   ---
 
-  🛠️ <strong>ជំនាញបច្ចេកវិទ្យា (Tech Stack)</strong>
+  🛠️ <strong>Tech Stack</strong>
 
-  <h3>🌐 Frontend & Language Frameworks</h3>
+  <h3>🌐 Frontend & UI Ecosystem</h3>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
   <h3>📱 Mobile Development</h3>
